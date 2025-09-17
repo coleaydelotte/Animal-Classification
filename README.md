@@ -3,6 +3,8 @@ Animal-Classification
 
 - 10 class multi-class problem
 
+In the note book we made it a point to emphasize the amount of description on each piece of the notebook.
+
 It contains about 28K medium quality animal images belonging to 10 categories: dog, cat, horse, spider, butterfly, chicken, sheep, cow, squirrel, elephant.
 
 [Dataset Download](https://www.kaggle.com/datasets/alessiocorrado99/animals10)
